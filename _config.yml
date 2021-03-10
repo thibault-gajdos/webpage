@@ -64,10 +64,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:thibault.gajdos@univ-amu.fr"
-    
-
-footer:
-  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thibault-gajdos"
@@ -77,6 +73,11 @@ footer:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Thibault-Gajdos-2/research"
+    
+    
+
+footer:
+  links:
     
 
 defaults:
