@@ -3,5 +3,5 @@ main:
     url: /publications/
   - title: "Documents de travail"
     url: /doc/
-  - title: "Chroniques"
-    url: /chroniques/
+ # - title: "Chroniques"
+ #   url: /chroniques/
