@@ -72,12 +72,13 @@ author:
       url: "https://orcid.org/0000-0001-6906-4836"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Thibault-Gajdos-2/research"
-    
-    
+      url: "https://www.researchgate.net/profile/Thibault-Gajdos-2/research"    
 
 footer:
   links:
+  
+logo: "/assets/images/logo.png"
+
     
 
 defaults:
