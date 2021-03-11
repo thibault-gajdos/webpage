@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Servant, M. , Logan, G. D., Gajdos, T., & Evans, N. (manuscript accepted for publication). An integrated theory of deciding and acting. *Journal of Experimental Psychology: General*.
+An integrated theory of deciding and acting. Servant, M. , Logan, G. D., Gajdos, T., & Evans, N.. *Journal of Experimental Psychology: General* (in press).
 
-Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice and Welfare*, in pess.
+Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice and Welfare*, in pess. [pdf](#/assets/papiers/DananGajdosTallon2021.pdf){: .btn .btn--warning}
 
 A Measure of the Interference Effect Distribution (T. Gajdos, M. Servant, T. Hasbroucq, K. Davranche),   *Behavior Research Methods* (2020). [[pdf]](/assets/images/bio-photo.jpg). An R package is available here, and data and scripts are available here.
 
