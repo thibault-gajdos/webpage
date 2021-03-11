@@ -9,7 +9,7 @@ Servant, M. , Logan, G. D., Gajdos, T., & Evans, N. (manuscript accepted for pub
 
 Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice and Welfare*, in pess.
 
-A Measure of the Interference Effect Distribution (T. Gajdos, M. Servant, T. Hasbroucq, K. Davranche),   *Behavior Research Methods* (2020). ["pdf"](/assets/images/bio-photo.jpg). An R package is available here, and data and scripts are available here.
+A Measure of the Interference Effect Distribution (T. Gajdos, M. Servant, T. Hasbroucq, K. Davranche),   *Behavior Research Methods* (2020). [[pdf]](/assets/images/bio-photo.jpg). An R package is available here, and data and scripts are available here.
 
 The confidence database (Rahnev D., Desender K., Lee A. L. F., ... Gajdos T., .. (80 co-authors)), *Nature human behaviour*, 4(3), 317-325 (2020). 
 
