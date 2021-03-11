@@ -11,7 +11,7 @@ Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice an
 
 A Measure of the Interference Effect Distribution (T. Gajdos, M. Servant, T. Hasbroucq, K. Davranche),   *Behavior Research Methods* (2020). [[pdf]](/assets/images/bio-photo.jpg). An R package is available here, and data and scripts are available here.
 
-The confidence database (Rahnev D., Desender K., Lee A. L. F., ... Gajdos T., .. (80 co-authors)), *Nature human behaviour*, 4(3), 317-325 (2020). 
+The confidence database (Rahnev D., Desender K., Lee A. L. F., ... Gajdos T., .. (84 co-authors)), *Nature human behaviour*, 4(3), 317-325 (2020). 
 
 Does social context impact metacognition? Evidence from stereotype threat in a visual search task (T. Gajdos, I. Régner, P. Huguet, J. Sackur, J.-C. Vergnaud, M. Hainguerlot, V. de Gardelle),  *PLoS ONE* (2019).
 
