@@ -1,9 +1,7 @@
 main:
-  - title: "Présentation"
-    url: /posts/
   - title: "Publications"
-    url: /categories/
+    url: /publications/
   - title: "Documents de travail"
-    url: /tags/
+    url: /doc/
   - title: "Chroniques"
-    url: /about/
+    url: /chroniques/
