@@ -9,6 +9,7 @@ Je n'écris plus de chronique pour Le Monde. Vous trouverez ci-dessous celles pu
 
 
 
+---
 **2019**{: .text-center}
 
 
@@ -17,7 +18,8 @@ Les inégalités sont d’autant plus fortes que la liberté de la presse est fr
 Seules les préférences des plus riches ont une influence sur l’évolution des dépenses sociales, Le Monde Economie, 9 janvier 2019. [[pdf]](/assets/chronique/0119.pdf)
 
 
-2018
+---
+**2018**{: .text-center}
 
 Une augmentation du smic pourrait permettre de corriger un peu les déséquilibres, Le Monde Economie, 7 décembre 2018. [[pdf]](/assets/chronique/1218.pdf)
 
@@ -38,6 +40,7 @@ Faire de l’accès à la nationalité un véritable outil d’intégration, Le 
 Pourquoi choisir le discours de la peur contre les réfugiés?, Le Monde Economie, 2 février 2018. [[pdf]](/assets/chronique/0218.pdf)
 
 
+---
 **2017**{: .text-center}
 
 
@@ -60,6 +63,7 @@ Affaire, famille et politique : les liaisons dangereuses,  Le Monde Economie, 17
 Quand les électeurs préfèrent les candidats incompétents,  Le Monde Economie, 20 janvier 2017. [[pdf]](/assets/chronique/0117.pdf)
 
 
+---
 **2016**{: .text-center} 
 
 
@@ -84,6 +88,7 @@ L'état d'urgence scolaire doit être déclaré, Le Monde Economie, 12 février 
 Déchoir les binationaux de leur nationalité encourage le racisme, Le Monde Economie, 15 janvier 2016. [[pdf]](/assets/chronique/0116.pdf)
 
 
+---
 **2015**{: .text-center} 
 
 
@@ -108,6 +113,7 @@ Mesurer les risque du repli communautaire, Le Monde Economie, 20 février 2015. 
 Tiers-payant: pourquoi tant d'hostilité?, Le Monde Economie, 16 janvier 2015. [[pdf]](/assets/chronique/0115.pdf)
 
 
+---
 **2014**{: .text-center}
 
 
@@ -134,6 +140,7 @@ Pauvres chefs d'entreprise stressés, Le Monde Economie, 25 février 2014. [[pdf
 Les mystères du vote sénatorial, Le Monde Economie, 31 janvier 2014. [[pdf]](/assets/chronique/0114.pdf)
 
 
+---
 **2013**{: .text-center}
 
 
@@ -154,6 +161,7 @@ Et si on repensait vraiment la politique familiale?, Le Monde Economie, 12 mars 
 Face à la pauvreté, la politique du sparadrap, Le Monde Economie, 29 janvier 2013. [[pdf]](/assets/chronique/0113.pdf)
 
 
+---
 **2012**{: .text-center}
 
 
@@ -176,6 +184,7 @@ Les limites fondamentales du referendum, Le Monde Economie, 28 février 2012. [[
 Quotient familial: un débat escamoté, Le Monde Economie, 31 janvier 2012. [[pdf]](/assets/chronique/0112.pdf)
 
 
+---
 **2011**{: .text-center} 
 
 
@@ -200,6 +209,7 @@ L'action publique doit être féminisée, Le Monde Economie, 1 mars 2011. [[pdf]
 Un excès de vitesse parlementaire, Le Monde Economie, 1 février 2011. [[pdf]](/assets/chronique/0111.pdf)
 
 
+---
 **2010**{: .text-center} 
 
 
@@ -224,6 +234,7 @@ Petite enfance, capital humain et inégalités, Le Monde Economie, 2 mars 2010. 
 Le trompe-l'oeil des quotas de boursiers, Le Monde Economie, 2 février 2010. [[pdf]](/assets/chronique/0210.pdf)
 
 
+---
 **2009**{: .text-center} 
 
 
@@ -243,7 +254,8 @@ Le coût du mépris, Le Monde Economie, 24 février 2009. [[pdf]](/assets/chroni
 
 La science, l'Etat et le marché, Le Monde Economie, 27 janvier 2009. [[pdf]](/assets/chronique/0109.pdf)
 
- 
+
+---
 **2008**{: .text-center} 
 
 
