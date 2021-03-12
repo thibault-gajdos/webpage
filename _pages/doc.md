@@ -1,7 +1,7 @@
 
-title: "Documents de travail"
+title: "Chroniques"
 
-permalink: /doc/
+permalink: /chroniques/
 author_profile: true
 ---
 
