@@ -1,6 +1,5 @@
 
 title: "Chroniques"
-
 permalink: /chroniques/
 author_profile: true
 ---
