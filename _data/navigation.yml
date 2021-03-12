@@ -1,5 +1,8 @@
 main:
   - title: "Publications"
     url: /publications/
+
+- title: "Chroniques"
+    url: /chroniques/
   
 
