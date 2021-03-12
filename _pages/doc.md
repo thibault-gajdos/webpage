@@ -71,7 +71,7 @@ Evaluer les enseignants peut améliorer l’enseignement, Le Monde Economie, 30 
 
 L’interdiction du burkini, une arme à double tranchant, Le Monde Economie, 2 septembre 2016. [[pdf]](/assets/chronique/0816.pdf)
 
-Hollande sauvé des eaux?, Le Monde Economie, 10 juin 1016. [[pdf]](/assets/chronique/0616.pdf) 
+Hollande sauvé des eaux?, Le Monde Economie, 10 juin 2016. [[pdf]](/assets/chronique/0616.pdf) 
 
 Emmanuel Macron préfère-t-il le risque, ou la rente? Le Monde Economie, 6 mai 2016. [[pdf]](/assets/chronique/0516.pdf) 
 
@@ -219,7 +219,7 @@ L'absentéisme scolaire en otage, Le Monde Economie, 27 avril 2010. [[pdf]](/ass
 
 Pourquoi les électeurs votent (ou pas), Le Monde Economie, 30 mars 2010. [[pdf]](/assets/chronique/0310bis.pdf)
 
-Petite enfance, capital humain et inégalités, Le Monde Economie, 2 mars 2010. [[pdf]](/assets/chronique/1310.pdf)
+Petite enfance, capital humain et inégalités, Le Monde Economie, 2 mars 2010. [[pdf]](/assets/chronique/0310.pdf)
 
 Le trompe-l'oeil des quotas de boursiers, Le Monde Economie, 2 février 2010. [[pdf]](/assets/chronique/0210.pdf)
 
@@ -229,7 +229,7 @@ Le trompe-l'oeil des quotas de boursiers, Le Monde Economie, 2 février 2010. [[
 
 Identité, immigration et richesse nationale, Le Monde Economie, 22 décembre 2009. [[pdf]](/assets/chronique/1209.pdf)
 
-Heurs et malheurs de la "cagnotte" anti-absentéisme , Le Monde Economie, 3 novembre 2009. [[pdf]](/assets/chronique/1209.pdf)
+Heurs et malheurs de la "cagnotte" anti-absentéisme , Le Monde Economie, 3 novembre 2009. [[pdf]](/assets/chronique/1109.pdf)
 
 Des stéréotypes à la ségrégation, Le Monde Economie, 29 septembre 2009. [[pdf]](/assets/chronique/0909.pdf)
 
