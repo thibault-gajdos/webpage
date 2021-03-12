@@ -1,8 +1,6 @@
+title: "Publications"
 
----
-title: "Chroniques"
-
-permalink: /chroniques/
+permalink: /publications/
 author_profile: true
 ---
 
