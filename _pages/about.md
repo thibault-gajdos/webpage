@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-----
+---
 
 Directeur de Recherche CNRS 
 
