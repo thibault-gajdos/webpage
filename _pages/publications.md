@@ -8,11 +8,11 @@ author_profile: true
 An integrated theory of deciding and acting. Servant, M. , Logan, G. D., Gajdos, T., & Evans, N.. *Journal of Experimental Psychology: General* (in press).
 
 Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice and Welfare*, in pess. [[pdf]](/assets/papiers/DananGajdosTallon2021.pdf)
-A Measure of the Interference Effect Distribution (T. Gajdos, M. Servant, T. Hasbroucq, K. Davranche),   *Behavior Research Methods* (2020). [[pdf]](/assets/papiers/DananGajdosTallon2021.pdf). An R package is available here, and data and scripts are available here.
+A Measure of the Interference Effect Distribution (T. Gajdos, M. Servant, T. Hasbroucq, K. Davranche),   *Behavior Research Methods* (2020). [[pdf]](/assets/papiers/GajdosServant2020.pdf) [[R package]](https://github.com/thibault-gajdos/RTconflict) [[data & scripts]](https://osf.io/5r8mq/)
 
-The confidence database (Rahnev D., Desender K., Lee A. L. F., ... Gajdos T., .. (84 co-authors)), *Nature human behaviour*, 4(3), 317-325 (2020). 
+The confidence database (Rahnev D., Desender K., Lee A. L. F., ... Gajdos T., .. (84 co-authors)), *Nature human behaviour*, 4(3), 317-325 (2020). [[pdf]](/assets/papiers/Rahnev2020.pdf)
 
-Does social context impact metacognition? Evidence from stereotype threat in a visual search task (T. Gajdos, I. Régner, P. Huguet, J. Sackur, J.-C. Vergnaud, M. Hainguerlot, V. de Gardelle),  *PLoS ONE* (2019).
+Does social context impact metacognition? Evidence from stereotype threat in a visual search task (T. Gajdos, I. Régner, P. Huguet, J. Sackur, J.-C. Vergnaud, M. Hainguerlot, V. de Gardelle),  *PLoS ONE* (2019). [[pdf]](/assets/papiers/)
 
 Revealing subthreshold motor contributions to perceptual confidence (T. Gajdos, S. Fleming, M. Saez Garcia, G. Weindel, K. Davranche),  *Neuroscience of Consciousness*, (2019). Data and analysis scripts.
 
