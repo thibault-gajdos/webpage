@@ -12,7 +12,7 @@ A Measure of the Interference Effect Distribution (T. Gajdos, M. Servant, T. Has
 
 The confidence database (Rahnev D., Desender K., Lee A. L. F., ... Gajdos T., .. (84 co-authors)), *Nature human behaviour*, 4(3), 317-325 (2020). [[pdf]](/assets/papiers/Rahnev2020.pdf)
 
-Does social context impact metacognition? Evidence from stereotype threat in a visual search task (T. Gajdos, I. Régner, P. Huguet, J. Sackur, J.-C. Vergnaud, M. Hainguerlot, V. de Gardelle),  *PLoS ONE* (2019). [[pdf]](/assets/papiers/)
+Does social context impact metacognition? Evidence from stereotype threat in a visual search task (T. Gajdos, I. Régner, P. Huguet, J. Sackur, J.-C. Vergnaud, M. Hainguerlot, V. de Gardelle),  *PLoS ONE* (2019). [[pdf]](/assets/papiers/GajdosRegner2019)
 
 Revealing subthreshold motor contributions to perceptual confidence (T. Gajdos, S. Fleming, M. Saez Garcia, G. Weindel, K. Davranche),  *Neuroscience of Consciousness*, (2019). Data and analysis scripts.
 
