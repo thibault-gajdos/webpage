@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-An integrated theory of deciding and acting. Servant, M. , Logan, G. D., Gajdos, T., & Evans, N.. *Journal of Experimental Psychology: General* (in press).
+An integrated theory of deciding and acting (M. Servant, G. D. Logan, T. Gajdos, N. Evans) *Journal of Experimental Psychology: General* (in press).
 
 Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice and Welfare*, in pess. [[pdf]](/assets/papiers/DananGajdosTallon2021.pdf)
 
