@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Chroniques"
 
 permalink: /chroniques/
 author_profile: true
