@@ -3,8 +3,9 @@ permalink: /
 title: ""
 ---
 
-Directeur de Recherche CNRS\
-Laboratoire de Psychologie Cognitive, Marseille.
+Directeur de Recherche 
+[CNRS](https://www.cnrs.fr/fr/page-daccueil "CNRS")\
+[Laboratoire de Psychologie Cognitive](https://lpc.univ-amu.fr/fr "LPC"), Marseille.
 
 Courriel: [prénom.nom]@univ-amu.fr
 

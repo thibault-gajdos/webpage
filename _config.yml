@@ -77,8 +77,7 @@ author:
 footer:
   links:
   
-logo: [![](/assets/images/logo.png)](https://lpc.univ-amu.fr/fr "Laboratoire de Psychologie Cognitive")
-# "/assets/images/logo.png"
+logo: "/assets/images/logo.png"
 
     
 
