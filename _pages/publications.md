@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-An integrated theory of deciding and acting (M. Servant, G. D. Logan, T. Gajdos, N. Evans) *Journal of Experimental Psychology: General* (in press).
+An integrated theory of deciding and acting (M. Servant, G. D. Logan, T. Gajdos, N. Evans) *Journal of Experimental Psychology: General* (2021). [[pdf]](/assets/papiers/dtdm.pdf) [[data & scripts]](https://osf.io/r5c2b/)
 
-Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice and Welfare*, in pess. [[pdf]](/assets/papiers/DananGajdosTallon2021.pdf)
+Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice and Welfare* (2021). [[pdf]](/assets/papiers/DananGajdosTallon2021.pdf)
 
 A Measure of the Interference Effect Distribution (T. Gajdos, M. Servant, T. Hasbroucq, K. Davranche),   *Behavior Research Methods* (2020). [[pdf]](/assets/papiers/GajdosServant2020.pdf) [[R package]](https://github.com/thibault-gajdos/RTconflict) [[data & scripts]](https://osf.io/5r8mq/)
 
