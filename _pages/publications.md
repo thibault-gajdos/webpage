@@ -5,13 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, Vincent de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (forthcoming). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
+
 An integrated theory of deciding and acting (M. Servant, G. D. Logan, T. Gajdos, N. Evans) *Journal of Experimental Psychology: General* (2021). [[pdf]](/assets/papiers/dtdm.pdf) [[data & scripts]](https://osf.io/r5c2b/)
 
 Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice and Welfare* (2021). [[pdf]](/assets/papiers/DananGajdosTallon2021.pdf)
 
 A Measure of the Interference Effect Distribution (T. Gajdos, M. Servant, T. Hasbroucq, K. Davranche),   *Behavior Research Methods* (2020). [[pdf]](/assets/papiers/GajdosServant2020.pdf) [[R package]](https://github.com/thibault-gajdos/RTconflict) [[data & scripts]](https://osf.io/5r8mq/)
 
-The confidence database (Rahnev D., Desender K., Lee A. L. F., ... Gajdos T., .. (84 co-authors)), *Nature human behaviour*, 4(3), 317-325 (2020). [[pdf]](/assets/papiers/Rahnev2020.pdf)
+The confidence database (Rahnev D., Desender K., Lee A. L. F., ... Gajdos T., .. (84 co-authors)), *Nature human behaviour*, 4(3), 317-325 (2020). [[pdf]](/assets/papiers/Rahnev2020.pdf) [[data]](https://osf.io/s46pr/)
 
 Does social context impact metacognition? Evidence from stereotype threat in a visual search task (T. Gajdos, I. Régner, P. Huguet, J. Sackur, J.-C. Vergnaud, M. Hainguerlot, V. de Gardelle),  *PLoS ONE* (2019). [[pdf]](/assets/papiers/GajdosRegner2019)
 
