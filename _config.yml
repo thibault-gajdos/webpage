@@ -55,8 +55,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cacheplugins:
   - jekyll-remote-theme 
+  - jekyll-include-cacheplugins:
 
 author:
   #name   : "First Lastname"
