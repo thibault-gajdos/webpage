@@ -8,15 +8,15 @@ author_profile: true
 ## Preprint
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
-(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant, 2023. https://hal.science/hal-03924556/
+(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant, 2023.[[pdf]](https://hal.science/hal-03924556/)
 
-Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (Ladislas Nalborczyk, Marieke Longcamp, Thibault Gajdos, Mathieu Servant, F.-Xavier Alario), 2023. https://psyarxiv.com/tz6x2/
+Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (Ladislas Nalborczyk, Marieke Longcamp, Thibault Gajdos, Mathieu Servant, F.-Xavier Alario), 2023. [[pdf]](https://psyarxiv.com/tz6x2/)
 
-Action monitoring boosts perceptual confidence (Remi Sanchez, Karen Davranche, Thibault Gajdos, Andrea Desantis), 2023. https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1
+Action monitoring boosts perceptual confidence (Remi Sanchez, Karen Davranche, Thibault Gajdos, Andrea Desantis), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1)
 
-High-intensity physical activity enhances cognitive decision processes (Davranche Karen, Giraud Dorian,eHays Arnaud, Gajdos Thibault), 2023. https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1
+High-intensity physical activity enhances cognitive decision processes (Davranche Karen, Giraud Dorian,eHays Arnaud, Gajdos Thibault), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1)
 
-The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (Gabriel Weindel thibault gajdos Burle Boris F.-Xavier Alario), 2022. https://psyarxiv.com/gewb3/
+The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (Gabriel Weindel thibault gajdos Burle Boris F.-Xavier Alario), 2022. [[pdf]](https://psyarxiv.com/gewb3/)
 
 ## Publications
 
