@@ -5,6 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Preprint
+
+The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
+(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant, 2023. https://hal.science/hal-03924556/
+
+Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (Ladislas Nalborczyk, Marieke Longcamp, Thibault Gajdos, Mathieu Servant, F.-Xavier Alario), 2023. https://psyarxiv.com/tz6x2/
+
+Action monitoring boosts perceptual confidence (Remi Sanchez, Karen Davranche, Thibault Gajdos, Andrea Desantis), 2023. https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1
+
+High-intensity physical activity enhances cognitive decision processes (Davranche Karen, Giraud Dorian,eHays Arnaud, Gajdos Thibault), 2023. https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1
+
+The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (Gabriel Weindel thibault gajdos Burle Boris F.-Xavier Alario), 2022. https://psyarxiv.com/gewb3/
+
+# Publications
+
 How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, Vincent de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (forthcoming). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
 
 An integrated theory of deciding and acting (M. Servant, G. D. Logan, T. Gajdos, N. Evans) *Journal of Experimental Psychology: General* (2021). [[pdf]](/assets/papiers/dtdm.pdf) [[data & scripts]](https://osf.io/r5c2b/)
