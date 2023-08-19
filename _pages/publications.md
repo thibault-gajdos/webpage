@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Preprint
+## Preprint
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
 (Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant, 2023. https://hal.science/hal-03924556/
@@ -18,7 +18,7 @@ High-intensity physical activity enhances cognitive decision processes (Davranch
 
 The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (Gabriel Weindel thibault gajdos Burle Boris F.-Xavier Alario), 2022. https://psyarxiv.com/gewb3/
 
-# Publications
+## Publications
 
 How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, Vincent de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (forthcoming). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
 
