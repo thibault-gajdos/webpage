@@ -8,7 +8,7 @@ author_profile: true
 ## Preprint
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
-(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant, 2023.[[pdf]](https://hal.science/hal-03924556/)
+(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant, 2023.[[pdf]](https://psyarxiv.com/dxsjh/)
 
 Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (Ladislas Nalborczyk, Marieke Longcamp, Thibault Gajdos, Mathieu Servant, F.-Xavier Alario), 2023. [[pdf]](https://psyarxiv.com/tz6x2/)
 
