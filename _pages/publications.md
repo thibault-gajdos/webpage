@@ -22,10 +22,10 @@ Making precise movements increases confidence in perceptual decisions (Rémi San
 
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
-(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant), *Psychological Review*  (2023).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]] (https://osf.io/4unw6/)
+(Edouard Dendauw, Nathan Evans, Gordon Logan, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant), *Psychological Review*  (2023).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]] (https://osf.io/4unw6/)
 
 
-How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, Vincent de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (2023). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
+How overconfidence bias influences suboptimality in perceptual decision making (Marine Hainguerlot, Thibault Gajdos, Jean-Christophe Vergnaud, Vincent de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (2023). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
 
 An integrated theory of deciding and acting (M. Servant, G. D. Logan, T. Gajdos, N. Evans) *Journal of Experimental Psychology: General* (2021). [[pdf]](/assets/papiers/dtdm.pdf) [[data & scripts]](https://osf.io/r5c2b/)
 
