@@ -11,7 +11,7 @@ Towards formal models of inhibitory mechanisms involved in motor imagery: A comm
 
 Action monitoring boosts perceptual confidence (Remi Sanchez, Karen Davranche, Thibault Gajdos, Andrea Desantis), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1)
 
-High-intensity physical activity enhances cognitive decision processes (Davranche Karen, Giraud Dorian,eHays Arnaud, Gajdos Thibault), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1)
+High-intensity physical activity enhances cognitive decision processes (Davranche Karen, Giraud Dorian,eHays Arnaud, Gajdos Thibault), 2023. [[pdf]] (https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1)
 
 The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (Gabriel Weindel thibault gajdos Burle Boris F.-Xavier Alario), 2022. [[pdf]](https://psyarxiv.com/gewb3/)
 
@@ -22,7 +22,7 @@ Making precise movements increases confidence in perceptual decisions (Rémi San
 
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
-(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant), *Psychological Review*  (2023).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]]( (https://osf.io/4unw6/)
+(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant), *Psychological Review*  (2023).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]] (https://osf.io/4unw6/)
 
 
 How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, Vincent de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (2023). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
