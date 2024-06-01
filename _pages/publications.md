@@ -17,8 +17,12 @@ The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decisi
 
 ## Publications
 
+
+Making precise movements increases confidence in perceptual decisions (Rémi Sanchez, Anaïs Courant, Andrea Desantis, Thibault Gajdos),  *Cognition* (2024). [[article]](https://authors.elsevier.com/sd/article/S0010-0277(24)00118-5)  [[data & scripts]](https://osf.io/t8mbu/)
+
+
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
-(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant), *Psychological Review*  (2023).[[pdf]](https://psyarxiv.com/dxsjh/)
+(Edouard Dendauw, Nathan Evans, Gordon Loga, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant), *Psychological Review*  (2023).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]]( (https://osf.io/4unw6/)
 
 
 How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, Vincent de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (2023). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
