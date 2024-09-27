@@ -78,8 +78,9 @@ author:
 
 footer:
   links:
-  
-logo: "/assets/images/logo.png"
+
+header:
+  custom: _includes/custom/header.html
 
     
 
