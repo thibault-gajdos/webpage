@@ -6,3 +6,15 @@
 .inner {
   max-width: 120%;
 }
+
+.header-logo {
+  display: flex;
+  justify-content: flex-start; /* Aligns logos to the left */
+  align-items: center; /* Vertically centers logos */
+  margin-top: 10px; /* Optional: Adjusts space above the logos */
+}
+
+.header-logo img {
+  max-height: 50px; /* Adjust logo height */
+  margin-right: 20px; /* Space between logos */
+}
