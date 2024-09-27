@@ -79,8 +79,9 @@ author:
 footer:
   links:
 
-header:
-  custom: _includes/custom/header.html
+# header:
+#   custom: _includes/custom/header.html
+logo: "/assets/images/logo_crpn.png"
 
 defaults:
   # _pages
