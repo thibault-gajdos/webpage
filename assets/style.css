@@ -7,6 +7,10 @@
   max-width: 120%;
 }
 
+body {
+    font-size: 14px; /* Base font size */
+}
+
 /* .header-logo { */
 /*   display: flex; */
 /*   justify-content: flex-start; /\* Aligns logos to the left *\/ */
