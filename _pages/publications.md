@@ -7,25 +7,25 @@ author_profile: true
 
 ## Preprint
 
-Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (Ladislas Nalborczyk, Marieke Longcamp, Thibault Gajdos, Mathieu Servant, F.-Xavier Alario), 2023. [[pdf]](https://psyarxiv.com/tz6x2/)
 
-Action monitoring boosts perceptual confidence (Remi Sanchez, Karen Davranche, Thibault Gajdos, Andrea Desantis), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1)
+Action monitoring boosts perceptual confidence (R. Sanchez, K. Davranche, T. Gajdos, A. Desantis), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1)
 
-High-intensity physical activity enhances cognitive decision processes (Davranche Karen, Giraud Dorian,eHays Arnaud, Gajdos Thibault), 2023. [[pdf]] (https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1)
+High-intensity physical activity enhances cognitive decision processes (K. Davranche, D. Giraud, A. Hays, T. Gajdos), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1)
 
-The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (Gabriel Weindel thibault gajdos Burle Boris F.-Xavier Alario), 2022. [[pdf]](https://psyarxiv.com/gewb3/)
+The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (G. Weindel, T. Gajdos, B. Burle, F.-X. Alario), 2022. [[pdf]](https://psyarxiv.com/gewb3/)
 
 ## Publications
 
 
-Making precise movements increases confidence in perceptual decisions (Rémi Sanchez, Anaïs Courant, Andrea Desantis, Thibault Gajdos),  *Cognition* (2024). [[article]](https://authors.elsevier.com/sd/article/S0010-0277(24)00118-5)  [[data & scripts]](https://osf.io/t8mbu/)
+Making precise movements increases confidence in perceptual decisions (R. Sanchez, A. Courant, A. Desantis, T. Gajdos),  *Cognition* (2024). [[article]](https://authors.elsevier.com/sd/article/S0010-0277(24)00118-5)  [[data & scripts]](https://osf.io/t8mbu/)
+
+Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (L. Nalborczyk, M. Longcamp, T. Gajdos, M. Servant, F.-X. Alario), *Psychological Research* (2023). [[pdf]](https://psyarxiv.com/tz6x2/)
 
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
-(Edouard Dendauw, Nathan Evans, Gordon Logan, Emmanuel Haffen, Djamila Bennabi, Thibault Gajdos, Mathieu Servant), *Psychological Review*  (2023).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]] (https://osf.io/4unw6/)
+(E. Dendauw, N. Evans, G. Logan, E. Haffen, D. Bennabi, T. Gajdos, M. Servant), *Psychological Review*  (2023).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]](https://osf.io/4unw6/)
 
-
-How overconfidence bias influences suboptimality in perceptual decision making (Marine Hainguerlot, Thibault Gajdos, Jean-Christophe Vergnaud, Vincent de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (2023). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
+How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, V. de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (2023). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
 
 An integrated theory of deciding and acting (M. Servant, G. D. Logan, T. Gajdos, N. Evans) *Journal of Experimental Psychology: General* (2021). [[pdf]](/assets/papiers/dtdm.pdf) [[data & scripts]](https://osf.io/r5c2b/)
 
