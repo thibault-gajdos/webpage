@@ -3,10 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.inner {
-  max-width: 120%;
-  font-size: 8px; /* Base font size */
-}
+/* .inner { */
+/*   /\* max-width: 120%; */
+/*   font-size: 8px; /\* Base font size *\/ */
+/* } */
 
 body {
     font-size: 8px; /* Base font size */
@@ -19,7 +19,7 @@ body {
 /*   margin-top: 10px; /\* Optional: Adjusts space above the logos *\/ */
 /* } */
 
-/* .header-logo img { */
-/*   max-height: 50px; /\* Adjust logo height *\/ */
-/*   margin-right: 20px; /\* Space between logos *\/ */
-/* } */
+.header-logo img {
+  max-height: 100px; /* Adjust logo height */
+  margin-right: 20px; /* Space between logos */
+}
