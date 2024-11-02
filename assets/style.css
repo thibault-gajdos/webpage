@@ -5,6 +5,7 @@
 
 .inner {
   max-width: 120%;
+  font-size: 14px; /* Base font size */
 }
 
 body {
