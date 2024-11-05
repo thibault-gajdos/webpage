@@ -19,11 +19,11 @@ The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decisi
 
 Making precise movements increases confidence in perceptual decisions (R. Sanchez, A. Courant, A. Desantis, T. Gajdos),  *Cognition* (2024). [[article]](https://authors.elsevier.com/sd/article/S0010-0277(24)00118-5)  [[data & scripts]](https://osf.io/t8mbu/)
 
-Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (L. Nalborczyk, M. Longcamp, T. Gajdos, M. Servant, F.-X. Alario), *Psychological Research* (2023). [[pdf]](https://psyarxiv.com/tz6x2/)
+Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (L. Nalborczyk, M. Longcamp, T. Gajdos, M. Servant, F.-X. Alario), *Psychological Research* (2024). [[pdf]](https://psyarxiv.com/tz6x2/)
 
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
-(E. Dendauw, N. Evans, G. Logan, E. Haffen, D. Bennabi, T. Gajdos, M. Servant), *Psychological Review*  (2023).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]](https://osf.io/4unw6/)
+(E. Dendauw, N. Evans, G. Logan, E. Haffen, D. Bennabi, T. Gajdos, M. Servant), *Psychological Review*  (2024).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]](https://osf.io/4unw6/)
 
 How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, V. de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (2023). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
 
