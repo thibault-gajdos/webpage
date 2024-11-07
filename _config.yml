@@ -83,8 +83,7 @@ footer:
   links:
 
 # header:
-logo:
-  path: "/assets/images/logo_crpn.png"
+logo:  "/assets/images/logo_crpn.png"
   
 
 defaults:
