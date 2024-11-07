@@ -83,7 +83,7 @@ footer:
   links:
 
 # header:
-logo: "/assets/images/logo_crpn.png"
+logo: '<a href="https://crpn.univ-amu.fr/fr"><img src = "/assets/images/logo_crpn.png">
 
 defaults:
   # _pages
