@@ -8,7 +8,7 @@
 }
 
 .site-logo img {
-  max-height: 3rem;
+  max-height: 4rem;
 }
 
 .site-title {
@@ -30,4 +30,30 @@ html {
   @include breakpoint($x-large) {
     font-size: 16px; // change to whatever
   }
+}
+
+/* Agrandir la police de la barre latérale */
+
+.sidebar {
+  font-size: 1.1em; /* Ajustez la taille de police selon vos besoins */
+}
+
+.sidebar .widget {
+  font-size: 1.1em; /* Applique la taille de police aux widgets */
+}
+
+.sidebar .widget-title {
+  font-size: 1.2em; /* Taille de police plus grande pour les titres des widgets */
+  font-weight: bold; /* Pour rendre les titres des widgets plus visibles */
+}
+
+/* Agrandir la police des titres de navigation dans l'en-tête */
+.masthead__menu-item {
+  font-size: 1.2em; /* Ajustez cette taille selon vos besoins */
+}
+
+/* Agrandir la police des liens de navigation dans le menu de l'en-tête */
+.masthead__menu a {
+  font-size: 1.2em; /* Ajustez cette taille également */
+  font-weight: bold; /* Rendre les liens de navigation plus visibles */
 }
