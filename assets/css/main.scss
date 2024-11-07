@@ -12,12 +12,12 @@
 }
 
 .site-title {
-  font-size: 1.8em;
+  font-size: 2.5em;
 }
 
 
 html {
-  font-size: 10px; // change to whatever
+  font-size: 12px; // change to whatever
 
   @include breakpoint($medium) {
     font-size: 12px; // change to whatever
@@ -35,11 +35,11 @@ html {
 /* Agrandir la police de la barre latérale */
 
 .sidebar {
-  font-size: 1.1em; /* Ajustez la taille de police selon vos besoins */
+  font-size: 1.3em; /* Ajustez la taille de police selon vos besoins */
 }
 
 .sidebar .widget {
-  font-size: 1.1em; /* Applique la taille de police aux widgets */
+  font-size: 1.3em; /* Applique la taille de police aux widgets */
 }
 
 .sidebar .widget-title {
