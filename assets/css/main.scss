@@ -3,6 +3,19 @@
 
 @import "minimal-mistakes";
 
+.masthead__inner-wrap {
+  padding-block: 2em;
+}
+
+.site-logo img {
+  max-height: 3rem;
+}
+
+.site-title {
+  font-size: 1.5em;
+}
+
+
 html {
   font-size: 10px; // change to whatever
 

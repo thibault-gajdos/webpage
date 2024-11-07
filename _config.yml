@@ -80,7 +80,6 @@ footer:
   links:
 
 # header:
-#   custom: _includes/custom/header.html
 logo: "/assets/images/logo_crpn.png"
 
 defaults:
@@ -96,13 +95,6 @@ defaults:
 atom_feed:
   hide: true
 
-
-#category_archive:
-#  type: liquid
-#  path: /categories/
-#tag_archive:
-#  type: liquid
-#  path: /tags/
 
 # Sass/SCSS
 sass:

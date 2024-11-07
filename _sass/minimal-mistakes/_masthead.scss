@@ -14,7 +14,7 @@
   &__inner-wrap {
     @include clearfix;
     margin-inline: auto;
-    padding: 2em;
+    padding: 1em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -39,7 +39,7 @@
 }
 
 .site-logo img {
-  max-height: 3rem;
+  max-height: 2rem;
 }
 
 .site-title {
@@ -48,7 +48,6 @@
   display: flex;
   -ms-flex-item-align: center;
   align-self: center;
-  font-size: 1.5em; 
   font-weight: bold;
   // z-index: 20;
 }
