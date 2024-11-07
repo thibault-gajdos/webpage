@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thibault-gajdos"
     - label: "Google scholar"
-      icon: "fab fa-fw fa-google_scholar"
+      icon: "fab fa-brands fa-google_scholar"
       url: "https://scholar.google.com/citations?user=6l7qA6QAAAAJ&hl=fr&oi=ao"
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
